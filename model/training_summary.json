@@ -1,0 +1,32 @@
+{
+  "classes": [
+    "biryani",
+    "burger",
+    "cake",
+    "chole_bhature",
+    "dhokla",
+    "dosa",
+    "fries",
+    "idli",
+    "jalebi",
+    "pani_puri",
+    "pav_bhaji",
+    "pizza",
+    "poha",
+    "roll",
+    "samosa",
+    "sandwich",
+    "taco",
+    "vadapav"
+  ],
+  "class_count": 18,
+  "image_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "epochs": 40,
+  "saved_model_path": "food_model.keras",
+  "validation_loss": 0.5435,
+  "validation_accuracy": 0.8514
+}

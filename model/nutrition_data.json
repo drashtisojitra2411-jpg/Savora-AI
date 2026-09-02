@@ -1,0 +1,176 @@
+{
+  "classes": [
+    "biryani",
+    "burger",
+    "cake",
+    "chole_bhature",
+    "dhokla",
+    "dosa",
+    "fries",
+    "idli",
+    "jalebi",
+    "pani_puri",
+    "pav_bhaji",
+    "pizza",
+    "poha",
+    "roll",
+    "samosa",
+    "sandwich",
+    "taco",
+    "vada_pav"
+  ],
+  "nutrition": {
+    "biryani": {
+      "calories": 180,
+      "protein": 6.2,
+      "carbs": 24.5,
+      "fat": 6.1,
+      "portion": "1 plate (250g)",
+      "health_tip": "Pair biryani with raita and add salad to improve balance and portion control."
+    },
+    "burger": {
+      "calories": 295,
+      "protein": 13.2,
+      "carbs": 30.1,
+      "fat": 13.4,
+      "portion": "1 burger (150g)",
+      "health_tip": "Choose grilled patties and extra vegetables to keep the meal more balanced."
+    },
+    "cake": {
+      "calories": 371,
+      "protein": 4.9,
+      "carbs": 53.1,
+      "fat": 15.2,
+      "portion": "1 slice (95g)",
+      "health_tip": "Treat as a dessert portion and combine with lower-sugar meals through the day."
+    },
+    "chole_bhature": {
+      "calories": 286,
+      "protein": 8.1,
+      "carbs": 32.8,
+      "fat": 13.1,
+      "portion": "1 serving (230g)",
+      "health_tip": "A smaller bhature portion with extra chole and onion salad improves satiety."
+    },
+    "dhokla": {
+      "calories": 160,
+      "protein": 6.0,
+      "carbs": 24.0,
+      "fat": 4.2,
+      "portion": "4 pieces (120g)",
+      "health_tip": "Dhokla is relatively light; pair it with chutney and a protein-rich side if needed."
+    },
+    "dosa": {
+      "calories": 184,
+      "protein": 4.5,
+      "carbs": 28.3,
+      "fat": 5.8,
+      "portion": "1 dosa (120g)",
+      "health_tip": "Use less oil and add sambar for a better protein and fiber profile."
+    },
+    "fries": {
+      "calories": 312,
+      "protein": 3.4,
+      "carbs": 41.4,
+      "fat": 15.0,
+      "portion": "1 medium serving (120g)",
+      "health_tip": "Try baked or air-fried potatoes for a lighter version with less added fat."
+    },
+    "idli": {
+      "calories": 146,
+      "protein": 4.4,
+      "carbs": 28.1,
+      "fat": 1.1,
+      "portion": "3 idlis (150g)",
+      "health_tip": "Idli is a strong low-fat option; adding sambar improves fullness and protein."
+    },
+    "jalebi": {
+      "calories": 459,
+      "protein": 4.6,
+      "carbs": 67.0,
+      "fat": 19.1,
+      "portion": "4 pieces (100g)",
+      "health_tip": "Jalebi is sugar-dense, so keeping the serving small matters more than anything else."
+    },
+    "pani_puri": {
+      "calories": 180,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 6.0,
+      "portion": "6 pieces (120g)",
+      "health_tip": "Use more filling and less sweet chutney to improve nutrition balance."
+    },
+    "pav_bhaji": {
+      "calories": 210,
+      "protein": 5.2,
+      "carbs": 27.0,
+      "fat": 8.6,
+      "portion": "1 plate (220g)",
+      "health_tip": "Use extra vegetables and fewer buttered pavs to reduce calorie density."
+    },
+    "pizza": {
+      "calories": 266,
+      "protein": 11.0,
+      "carbs": 33.0,
+      "fat": 10.0,
+      "portion": "1 slice (100g)",
+      "health_tip": "Thin crust and vegetable toppings improve the macro balance without losing flavor."
+    },
+    "poha": {
+      "calories": 165,
+      "protein": 3.8,
+      "carbs": 31.2,
+      "fat": 2.8,
+      "portion": "1 bowl (180g)",
+      "health_tip": "Add peanuts and sprouts to increase protein and satiety."
+    },
+    "roll": {
+      "calories": 260,
+      "protein": 10.5,
+      "carbs": 29.0,
+      "fat": 11.0,
+      "portion": "1 roll (170g)",
+      "health_tip": "Prefer grilled fillings and less sauce to keep calories lower."
+    },
+    "samosa": {
+      "calories": 262,
+      "protein": 5.1,
+      "carbs": 28.9,
+      "fat": 14.2,
+      "portion": "2 pieces (120g)",
+      "health_tip": "Pair with high-fiber salad and avoid deep-fried sides in the same meal."
+    },
+    "sandwich": {
+      "calories": 240,
+      "protein": 9.3,
+      "carbs": 28.7,
+      "fat": 9.5,
+      "portion": "1 sandwich (180g)",
+      "health_tip": "Use whole-grain bread and lean fillings for better nutrient density."
+    },
+    "taco": {
+      "calories": 226,
+      "protein": 9.0,
+      "carbs": 20.7,
+      "fat": 12.2,
+      "portion": "2 tacos (160g)",
+      "health_tip": "Choose grilled protein and extra veggies, and moderate high-fat toppings."
+    },
+    "vada_pav": {
+      "calories": 290,
+      "protein": 7.1,
+      "carbs": 36.8,
+      "fat": 12.4,
+      "portion": "1 piece (140g)",
+      "health_tip": "Balance with a lighter next meal and include fresh vegetables when possible."
+    },
+    "vadapav": {
+      "calories": 290,
+      "protein": 7.1,
+      "carbs": 36.8,
+      "fat": 12.4,
+      "portion": "1 piece (140g)",
+      "health_tip": "Balance with a lighter next meal and include fresh vegetables when possible."
+    }
+  }
+}
