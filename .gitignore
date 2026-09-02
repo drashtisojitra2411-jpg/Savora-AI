@@ -1,45 +1,86 @@
+# =========================
 # Python
+# =========================
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 
-# Virtual environments
+# =========================
+# Virtual Environment
+# =========================
+.venv/
 venv/
 env/
-.venv/
+ENV/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Environment variables / secrets
+# =========================
+# Environment Variables / Secrets
+# =========================
 .env
 .env.*
 !.env.example
 
-# IDE
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor
+# =========================
 .vscode/
 .idea/
 
-# OS
+# =========================
+# Operating System
+# =========================
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Python build
+# =========================
+# Python Build / Packaging
+# =========================
 build/
 dist/
 *.egg-info/
 
-# Model/checkpoint files
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Datasets
+# =========================
+data/
+dataset/
+datasets/
+
+# =========================
+# Large ML Model Files
+# =========================
 *.h5
+*.hdf5
 *.keras
 *.pth
 *.pt
 *.ckpt
 
-# Large datasets
-data/
-dataset/
-datasets/
+# =========================
+# Temporary / Cache Files
+# =========================
+*.tmp
+*.temp
+*.cache
 
-# Logs
-*.log
+# =========================
+# Project-specific files
+# =========================
+implementation_plan.md
+walkthrough.md
+Savora report@921,201,135.pdf
+WhatsApp Image *.jpg
+WhatsApp Image *.jpeg
+WhatsApp Image *.png
